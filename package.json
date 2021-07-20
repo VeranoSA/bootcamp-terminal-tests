@@ -1,9 +1,28 @@
 {
-  "dependencies": {
-    "chalk": "^4.1.1",
-    "figlet": "^1.5.0"
+  "name": "bootcamp-terminal-tests",
+  "version": "1.0.0",
+  "description": "testing the bootcamp functions on terminal using node",
+  "dependencies": {},
+  "main": "",
+  "directories": {
+    "test": "test"
   },
   "scripts": {
     "test": "mocha"
-   }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VeranoSA/bootcamp-terminal-tests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VeranoSA/bootcamp-terminal-tests/issues"
+  },
+  "homepage": "https://github.com/VeranoSA/bootcamp-terminal-tests#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
 }
